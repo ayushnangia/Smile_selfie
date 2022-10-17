@@ -1,0 +1,7 @@
+# please install Visual Studio Tools C++ for Windows machine
+
+
+imutils
+pygame
+dlib
+cv2
